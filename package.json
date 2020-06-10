@@ -33,6 +33,7 @@
         "wepack-cli": "0.0.1-security"
     },
     "dependencies": {
+        "intersection-observer": "^0.10.0",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-icons": "^3.10.0",
